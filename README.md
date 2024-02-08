@@ -32,7 +32,7 @@ Before running the script, you will need to have the following:
 ## To get started:
 Clone this repository to your local machine.
 ```
-git clone https://github.com/AbdulrahmanElfeki/Crowd-Funding-console-app
+git clone https://github.com/MOstafaZaRiaa/Crowd-Funding-console-app
 ```
 To run Authrntication System:
 ```
